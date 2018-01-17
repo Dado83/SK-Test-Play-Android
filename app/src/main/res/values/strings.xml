@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SK TEST PLAY</string>
+    <string name="pretraga">pretraga</string>
+    <string name="autor">autor</string>
+    <string name="naslov">naslov</string>
+    <string name="ocjena">min. ocjena</string>
+</resources>
